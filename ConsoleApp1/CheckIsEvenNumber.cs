@@ -2,7 +2,7 @@
 
 namespace ConsoleApp1
 {
-    internal class CheckIsEvenNumber
+    public class CheckIsEvenNumber
     {
         public bool IsEven(int number) { 
             return number % 2 == 0;
